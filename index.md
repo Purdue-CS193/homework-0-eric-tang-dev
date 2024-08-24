@@ -1,3 +1,12 @@
+# Eric Tang's First CS193 Homework
+
+## BEST things about CS193
+- Not having to worry about learning Github/Terminal on my own.
+- Minimal HW!
+- Only once a week. Very chill class.
+- Weekly PSO/office hours for students
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -11,7 +20,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Testing the Function
+# Header 1
 ## Header 2
 ### Header 3
 
