@@ -1,4 +1,4 @@
-# Eric Tang's First CS193 Homework
+
 
 ## BEST things about CS193
 - Not having to worry about learning Github/Terminal on my own.
